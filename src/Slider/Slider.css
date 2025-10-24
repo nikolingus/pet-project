@@ -107,13 +107,13 @@
 
 /* Фоновые изображения для слайдов */
 .slider__slide--1 {
-  background-image: url(./img/gora.jpg);
+  background-image: url(/img/gora.jpg);
 }
 
 .slider__slide--2 {
-  background-image: url(./img/river.jpg);
+  background-image: url(/img/river.jpg);
 }
 
 .slider__slide--3 {
-  background-image: url(./img/chong.jpg);
+  background-image: url(/img/chong.jpg);
 }
