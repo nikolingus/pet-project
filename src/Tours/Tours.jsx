@@ -6,7 +6,7 @@ function Tours() {
       <h1 className="tours__title">Самые популярные туры</h1>
       <div className="tours__list">
         <div className="tours__item">
-          <img src="./src/img/gold.jpg" alt="Тур 1" className="tours__image" />
+          <img src="./img/gold.jpg" alt="Тур 1" className="tours__image" />
           <div className="tours__content">
             <h2 className="tours__subtitle">Золотой Треугольник Тур в Китай</h2>
             <p className="tours__text">
@@ -22,7 +22,7 @@ function Tours() {
           </div>
         </div>
         <div className="tours__item">
-          <img src="./src/img/ava.jpg" alt="Тур 2" className="tours__image" />
+          <img src="./img/ava.jpg" alt="Тур 2" className="tours__image" />
           <div className="tours__content">
             <h2 className="tours__subtitle">
               Классический Тур в Китай, Аватар-Тур
@@ -38,11 +38,7 @@ function Tours() {
           </div>
         </div>
         <div className="tours__item">
-          <img
-            src="./src/img/shaolin.jpg"
-            alt="Тур 3"
-            className="tours__image"
-          />
+          <img src="./img/shaolin.jpg" alt="Тур 3" className="tours__image" />
           <div className="tours__content">
             <h2 className="tours__subtitle">Шаолинь Кунг-Фу Тур</h2>
             <p className="tours__text">
