@@ -15,3 +15,10 @@ body {
   height: -webkit-fill-available;
   overflow-x: hidden;
 }
+
+/* Расположение по центру */
+.section,
+.footer {
+  display: grid;
+  place-items: center;
+}
