@@ -162,6 +162,11 @@
     font-size: 16px;
     margin: 0 0 10px 0;
   }
+
+  .registration {
+    height: 110vh;
+  }
+
   .registration__input {
     width: 80vw;
     height: 50px;
@@ -170,6 +175,8 @@
   }
   .registration__label {
     font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 5px;
   }
   .registration__title {
     font-size: 30px;
@@ -180,6 +187,7 @@
   .registration__button {
     width: 150px;
     height: 40px;
+    margin-top: 40px !important;
   }
   .registration__error {
     margin-top: -15px;
