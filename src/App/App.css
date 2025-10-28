@@ -164,7 +164,7 @@
   }
 
   .registration {
-    height: 110vh;
+    height: 125vh;
   }
 
   .registration__input {
@@ -187,7 +187,7 @@
   .registration__button {
     width: 150px;
     height: 40px;
-    margin-top: 15px !important;
+    margin-top: 40px !important;
   }
   .registration__error {
     margin-top: -15px;
