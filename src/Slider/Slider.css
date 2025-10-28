@@ -20,6 +20,7 @@
   background-position: center;
   position: relative;
   background: linear-gradient(to top, rgba(0, 0, 0, 1), transparent);
+  background-attachment: scroll;
 }
 
 .slider__content {
@@ -31,6 +32,8 @@
   color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   max-width: 90%;
+  padding: 0 15px;
+  box-sizing: border-box;
 }
 
 .slider__title {

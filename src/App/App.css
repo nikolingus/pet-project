@@ -127,6 +127,20 @@
   .tours__text {
     padding-bottom: 50px;
   }
+
+  .slider {
+    height: 70vh;
+  }
+
+  .slider__slide {
+    background-size: cover;
+    background-position: center center;
+  }
+
+  .slider__content {
+    bottom: 60px;
+    max-width: 95%;
+  }
 }
 
 @media screen and (max-width: 505px) {
@@ -169,6 +183,14 @@
   }
   .registration__error {
     margin-top: -15px;
+  }
+
+  .slider {
+    height: 60vh;
+  }
+
+  .slider__content {
+    bottom: 50px;
   }
 }
 
