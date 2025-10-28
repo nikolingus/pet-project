@@ -144,6 +144,12 @@
 }
 
 @media screen and (max-width: 505px) {
+  .title::before {
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center center;
+  }
+
   .title__text {
     font-size: 30px;
   }
