@@ -17,7 +17,7 @@ function Header() {
         </div>
 
         <div className="nav__logo">
-          <h1 class="nav__title">China Travel</h1>
+          <h1 className="nav__title">China Travel</h1>
         </div>
 
         <div className="nav__group nav__group--right">
