@@ -10,7 +10,7 @@ function Slider() {
     const slider = sliderRef.current;
     const container = containerRef.current;
 
-    // Все элементы можно получить сразу из slider, не нужно проверять container
+    // Все элементы можно получить сразу из slider
     const slides = slider?.querySelectorAll(".slider__slide");
     const prevBtn = slider?.querySelector(".slider__btn--prev");
     const nextBtn = slider?.querySelector(".slider__btn--next");
